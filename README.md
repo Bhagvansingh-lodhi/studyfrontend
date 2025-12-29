@@ -1,16 +1,34 @@
-# React + Vite
+🎓 StudyArchitect — AI Powered Personalized Learning Platform (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+StudyArchitect is an AI-driven learning platform that transforms any study topic into a complete, structured learning pack including smart notes, flashcards, MCQs with explanations, subjective questions, and a multi-day revision plan — all generated instantly using Gemini AI.
 
-Currently, two official plugins are available:
+This repository contains the frontend built with modern web technologies to provide a fast, responsive, and beautiful user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+🧠 AI-generated study material from any topic
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📚 Auto-created structured modules & smart notes
 
-## Expanding the ESLint configuration
+🃏 Flashcards for quick revision
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📝 MCQs with detailed explanations
+
+✍️ Subjective practice questions
+
+📆 Multi-day personalized revision planner
+
+🔐 Secure JWT based authentication
+
+⚡ Super-fast Vite powered frontend
+
+🛠 Tech Stack
+Layer	Technology
+Frontend	React + Vite
+Styling	Tailwind CSS
+Backend	Node.js + Express
+Database	MongoDB + Mongoose
+AI Engine	Google Gemini AI
+Auth	JWT
+📦 Installation & Setup
+Clone Repository
